@@ -304,3 +304,7 @@ Outputs are saved to `results/`: `fig3_confusion_matrix.png`, `fig4_feature_impo
 8. J. G. Proakis and D. G. Manolakis, *Digital Signal Processing*, PHI, 2014.
 
 ## License
+
+The code is released under the [MIT License](LICENSE).
+The CWRU dataset is not included and has its own terms of use on the
+[Bearing Data Center website](https://engineering.case.edu/bearingdatacenter).
